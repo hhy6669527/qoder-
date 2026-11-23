@@ -147,6 +147,7 @@ npm run preview
 
 ## 文档与来源
 
+- [AGENTS.md](AGENTS.md)：AI / 协作者交接入口——上手顺序、工作闭环与红线
 - [docs/homepage-ia-spec.md](docs/homepage-ia-spec.md)：首页信息架构、交互数值与验收清单
 - [PROVENANCE.md](PROVENANCE.md)：React starter 模板来源与许可说明
 - `vendor/`：随模板保留的 Shadcn 样式与原始许可
