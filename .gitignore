@@ -1,0 +1,26 @@
+# dependencies and build output
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# local data and environment
+.local/
+.env
+.env.*
+!.env.example
+
+# Qoder Sites tooling and generated descriptors
+.qoder-sites/
+.qoder-sites.json
+*.qoder.site
+
+# internal handoff, local snapshots and scratch files
+HANDOFF.md
+backups/
+_tmp_meta.txt
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
